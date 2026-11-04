@@ -1,0 +1,24 @@
+# STM32CubeIDE build outputs
+**/Debug/
+**/Release/
+
+# Compiled firmware files
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.map
+
+# Linux compiled executable
+Linux_Client/test_client
+
+# Editor and temporary files
+*.bak
+*.tmp
+*~
+*.swp
+
+# Operating system files
+Thumbs.db
+.DS_Store
